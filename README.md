@@ -28,8 +28,8 @@
   - 
 <b>PART I</b>
   - * 2015년 8월 10일 ~
-  - 회차
-  - | 일시| 내용                                  | 발표자  |              발표자료                    |
+
+|회차| 일시| 내용                                  | 발표자  |              발표자료                    |
 |--- |:---:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1  |8/10  |(RL) Lecture 1: Introduction to Reinforcement Learning|이상열|[발표자료](https://drive.google.com/file/d/0B2l0iH28o85xaGxHZnU4S1gwRjA/view) |
 |    |     |(DP) 1. The evolved foundations of decision making (1) |김무성|[발표자료](http://nbviewer.ipython.org/github/psygrammer/dprl/blob/master/part1/DP/ch01/01_The_evolved_foundations_of_decision_making.ipynb) |
