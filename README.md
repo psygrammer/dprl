@@ -20,8 +20,7 @@
 * 부교재
   - [1] 웹 사이트 최적화를 위한 밴디트 알고리즘 (의사결정심리)
   - [2] Pacman Reinforcement Learning Project Python code [http://inst.eecs.berkeley.edu/~cs188/fa10/projects/reinforcement/reinforcement.html] (강화학습)
-  - [3] Reinforcement Learning: An Introduction 
-  - http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html A Bradford Book (강화학습)
+  - [3] Reinforcement Learning: An Introduction - http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html A Bradford Book (강화학습)
   - [4] 인사이트 기반의 온라인 마케팅과 운영을 위한 웹 데이터 분석학 (온라인광고시스템)  
   
  
