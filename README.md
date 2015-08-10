@@ -36,6 +36,6 @@
 |    |     |(OA) 1 Introduction & 2. Finding Advertising Keywords on Web Pages (1) |김무성|[발표자료](http://nbviewer.ipython.org/github/psygrammer/dprl/blob/master/part1/OA/ch01/01_Introduction.ipynb)|
 |    |     |(PyWeb) 파이썬 기초 (1) |정광윤|[발표자료](http://nbviewer.ipython.org/github/psygrammer/dprl/blob/master/part1/PyWeb/ch01/psygrammer_pyweb_01.ipynb) |
 | 2  |8/24 |(RL) Lecture 2: Markov Decision Processes || |
-|    |     |(DP) 1. The evolved foundations of decision making (2) |김무성| |
-|    |     |(OA) 1 Introduction & 2. Finding Advertising Keywords on Web Pages (2) | 김무성 |   |
+|    |     |(DP) 1. The evolved foundations of decision making (2) |김무성|[발표자료](http://nbviewer.ipython.org/github/psygrammer/dprl/blob/master/part1/DP/ch01/01_The_evolved_foundations_of_decision_making.ipynb) |
+|    |     |(OA) 1 Introduction & 2. Finding Advertising Keywords on Web Pages (2) | 김무성 |[발표자료](http://nbviewer.ipython.org/github/psygrammer/dprl/blob/master/part1/OA/ch01/01_Introduction.ipynb)   |
 |    |     |(PyWeb) 파이썬 기초 (2)         | 정광윤 |[발표자료](http://nbviewer.ipython.org/github/psygrammer/dprl/blob/master/part1/PyWeb/ch01/psygrammer_pyweb_01.ipynb)   |
