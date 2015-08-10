@@ -15,14 +15,22 @@
     - (RDB) [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
     - (API) [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - (AB) [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
+
+---------
+* 부교재
+  - [1] 웹 사이트 최적화를 위한 밴디트 알고리즘 (의사결정심리)
+  - [2] Pacman Reinforcement Learning Project Python code [http://inst.eecs.berkeley.edu/~cs188/fa10/projects/reinforcement/reinforcement.html] (강화학습)
+  - [3] Reinforcement Learning: An Introduction 
+  - http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html A Bradford Book (강화학습)
+  - [4] 인사이트 기반의 온라인 마케팅과 운영을 위한 웹 데이터 분석학 (온라인광고시스템)  
   
-
+ 
 # 커리큘럼
-
+  - 
 <b>PART I</b>
-* 2015년 8월 10일 ~ 
-
-|회차| 일시| 내용                                  | 발표자  |              발표자료                    |
+  - * 2015년 8월 10일 ~
+  - 회차
+  - | 일시| 내용                                  | 발표자  |              발표자료                    |
 |--- |:---:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1  |8/10  |(RL) Lecture 1: Introduction to Reinforcement Learning|이상열|[발표자료](https://drive.google.com/file/d/0B2l0iH28o85xaGxHZnU4S1gwRjA/view) |
 |    |     |(DP) 1. The evolved foundations of decision making (1) |김무성|[발표자료](http://nbviewer.ipython.org/github/psygrammer/dprl/blob/master/part1/DP/ch01/01_The_evolved_foundations_of_decision_making.ipynb) |
