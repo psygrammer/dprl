@@ -45,4 +45,25 @@
 |    |     |(DP) 2. Neural bases of judgment and decision making (1) | 윤석희 |  |
 |    |     |(OA) 2 Finding Advertising Keywords on Web Pages (1) | 박우석 |  |
 |    |     |(javascript) JavaScript Basics |  |  |
+| 4  |9/21 |(RL) Lecture 4: Model-Free Prediction | 김영삼 |  |
+|    |     |(DP) 2. Neural bases of judgment and decision making (2) | 윤석희 |  |
+|    |     |(OA) 2 Finding Advertising Keywords on Web Pages (2) | 박우석 |  |
+|    |     |(AJAX) Intro to AJAX | 정지웅  |  |
+| 5  |10/5 |(RL) Lecture 5: Model-Free Control |  |  |
+|    |     |(DP) 3. Judgment and decision making in young children (1) | 최준혁 |  |
+|    |     |(OA) 3. Dealing with Short Text in Ads for Contextual Advertising (1) | 송치성 |  |
+|    |     |AngularJS 기초 (1) | 정광윤  |  |
+| 6  |10/19|(RL) Lecture 6: Value Function Approximation |  |  |
+|    |     |(DP) 3. Judgment and decision making in young children (2) | 최준혁 |  |
+|    |     |(OA) 3. Dealing with Short Text in Ads for Contextual Advertising (2) | 송치성 |  |
+|    |     |AngularJS 기초 (2) | 정광윤  |  |
+| 7  |11/2 |(RL) Lecture 7: Policy Gradient Methods |  |  |
+|    |     |(DP) 4. Judgment and decision making in adolescents (1) | 김성근 |  |
+|    |     |(OA) 4. Handling the Short Search Query for Sponsored Search (1) | 정광윤 |  |
+|    |     |React 기초 (1) | 김범준  |  |
+| 8  |11/16|(RL) Lecture 8: Integrating Learning and Planning |  |  |
+|    |     |(DP) 4. Judgment and decision making in adolescents (2) | 김성근 |  |
+|    |     |(OA) 4. Handling the Short Search Query for Sponsored Search (2) | 정광윤 |  |
+|    |     |React 기초 (1) | 김범준  |  |
+
 
