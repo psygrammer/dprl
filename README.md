@@ -35,36 +35,36 @@
 |--- |:---:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1  |12/14|(RL) Lecture 5: Model-Free Control|김무성||
 |    |     |(DP) 5. Aging and decision skills (1)|||
-|    |     |(OT) (A/B) Lesson 1: Overview of A/B Testing & Lesson 2: Policy and Ethics for Experiments||
-|    |     |(PyWeb) (RDB) Intro to Relational Databases (1)||
+|    |     |(A/B) Lesson 1: Overview of A/B Testing & Lesson 2: Policy and Ethics for Experiments||
+|    |     |(RDB) Intro to Relational Databases (1)||
 | 2  |12/28|(RL) 강화학습 코딩 실습 - PyBrain |김무성|  |
 |    |     |(DP) 5. Aging and decision skills (2) | |  |
-|    |     |(OT) (A/B) Lesson 3: Choosing and Characterizing Metrics & Lesson 4: Designing an Experiment | |  |
-|    |     |(PyWeb) (RDB) Intro to Relational Databases (2) |   |  |
+|    |     |(A/B) Lesson 3: Choosing and Characterizing Metrics & Lesson 4: Designing an Experiment | |  |
+|    |     |(RDB) Intro to Relational Databases (2) |   |  |
 | 3  |01/11|(RL) Lecture 6: Value Function Approximation | 이상열 |  |
 |    |     |(DP) 6. Learning of judgment and decision-making strategies (1) |  |  |
 |    |     |(OT) (A/B) Lesson 5: Analyzing Results & (MAB) 1장 두 가지 특성, 탐색과 활용 & 2장 왜 멀티암드 밴디트 알고리즘을 사용하는가 |  |  |
 |    |     |(PyWeb) (API) flask 개요 & 설치 |   |  |
 | 4  |01/25|(RL) 강화학습 코딩 실습 - Case Study (RL in Classic Games) | 이상열 |  |
 |    |     |(DP) 6. Learning of judgment and decision-making strategies (2) |  |  |
-|    |     |(OT) (MAB) 3장 엡실론-그리디 알고리즘 |  |  |
-|    |     |(PyWeb) (API) Lesson 1 - Working with the CRUD  |   |  |
+|    |     |(MAB) 3장 엡실론-그리디 알고리즘 |  |  |
+|    |     |(API) Lesson 1 - Working with the CRUD  |   |  |
 | 5  |02/22|(RL) Lecture 7: Policy Gradient Methods |  |  |
 |    |     |(DP) 7. Causal models in judgment and decision making (1) |  |  |
 |    |     |(OT) (MAB) 4장 밴디트 알고리즘 디버깅 |  |  |
-|    |     |(PyWeb) (API) Lesson 2 - Making a Web Server |   |  |
+|    |     |(API) Lesson 2 - Making a Web Server |   |  |
 | 6  |03/07|(RL) Lecture 8: Integrating Learning and Planning |  |  |
 |    |     |(DP) 7. Causal models in judgment and decision making (2) |  |  |
-|    |     |(OT) (MAB) 5장 소프트맥스 알고리즘 |  |  |
-|    |     |(PyWeb) (API) Lesson 3 - Developing with Frameworks |   |  |
+|    |     |(MAB) 5장 소프트맥스 알고리즘 |  |  |
+|    |     |(API) Lesson 3 - Developing with Frameworks |   |  |
 | 7  |03/21|(RL) Lecture 9: Exploration and Exploitation |  |  |
 |    |     |(DP) 8. Learning judgment and decision making from feedback (1) |  |  |
-|    |     |(OT) (MAB) 6장 UCB-상부 신뢰 한계 알고리즘 |  |  |
-|    |     |(PyWeb) (API) Lesson 4 - Iterative Development |   |  |
+|    |     |(MAB) 6장 UCB-상부 신뢰 한계 알고리즘 |  |  |
+|    |     |(API) Lesson 4 - Iterative Development |   |  |
 | 8  |04/04|(RL) Deep Reinforcement Learning 이론 핥기 |  |  |
 |    |     |(DP) 8. Learning judgment and decision making from feedback (2) |  |  |
-|    |     |(OT) (MAB) 7장 현실에서의 밴디트, 문제의 복잡성과 복합성 & 8장 결론 |  |  |
-|    |     |(PyWeb) (API) Lesson 1 - Working with the CRUD |   |  |
+|    |     |(MAB) 7장 현실에서의 밴디트, 문제의 복잡성과 복합성 & 8장 결론 |  |  |
+|    |     |(API) Lesson 1 - Working with the CRUD |   |  |
 
 
 
