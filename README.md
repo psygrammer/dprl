@@ -7,6 +7,7 @@
 * 교재 : 
   - (DP) 의사결정 심리 : [Judgment and Decision Making as a Skill: Learning, Development and Evolution](http://www.amazon.com/Judgment-Decision-Making-Skill-Development/dp/1107676525)
   - (RL) 강화학습 : [Advanced Topics: RL 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+  - (OT) 온라인테스팅 : (MAB) 웹 사이트 최적화를 위한 밴디트 알고리즘 - http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=59519967
   - (OA) 온라인광고 : [Computational Advertising: Techniques for Targeting Relevant Ads (Foundations and Trends in Information Retrieval)](http://www.amazon.com/Computational-Advertising-Techniques-Foundations-Information/dp/160198832X/)
   - (PyWeb) 파이썬으로 웹 페이지 만들기
     - (html) [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
@@ -15,7 +16,6 @@
     - (RDB) [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
     - (API) [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
     - (AB) [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
-    - (MAB) 웹 사이트 최적화를 위한 밴디트 알고리즘 - http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=59519967
 
 ---------
 * 부교재
