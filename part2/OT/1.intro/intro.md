@@ -30,6 +30,15 @@
 ### A-B Testing의 단점과 개선안 http://www.ecogwiki.com/A-B_Testing%EC%9D%98_%EB%8B%A8%EC%A0%90%EA%B3%BC_%EA%B0%9C%EC%84%A0%EC%95%88
 
 
+### http://bahnsville.tistory.com/m/post/1091
+
+### A : 대조군 Control
+### B : 실험군 Experiment
+
+### 평가지표, 평균 및 분산을 같이 봐야함. 신뢰구간 
+### 통계적 오류들에서 pvalue의 유의성으로 판단하는 것은 항상 옳을 수는 없음.
+
+
     from IPython.display import Image
     Image(filename='png/1.png') 
 
