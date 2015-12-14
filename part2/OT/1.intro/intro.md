@@ -50,17 +50,10 @@
 
 
 
+    
+
+
     Image(filename='png/2.png')
-
-
-
-
-![png](intro_files/intro_2_0.png)
-
-
-
-
-    Image(filename='png/3.png')
 
 
 
@@ -70,7 +63,7 @@
 
 
 
-    Image(filename='png/4.png')
+    Image(filename='png/3.png')
 
 
 
@@ -80,7 +73,7 @@
 
 
 
-    Image(filename='png/5.png')
+    Image(filename='png/4.png')
 
 
 
@@ -90,7 +83,7 @@
 
 
 
-    Image(filename='png/6.png')
+    Image(filename='png/5.png')
 
 
 
@@ -100,7 +93,7 @@
 
 
 
-    Image(filename='png/7.png')
+    Image(filename='png/6.png')
 
 
 
@@ -110,7 +103,7 @@
 
 
 
-    Image(filename='png/8.png')
+    Image(filename='png/7.png')
 
 
 
@@ -120,7 +113,7 @@
 
 
 
-    Image(filename='png/9.png')
+    Image(filename='png/8.png')
 
 
 
@@ -130,7 +123,7 @@
 
 
 
-    Image(filename='png/10.png')
+    Image(filename='png/9.png')
 
 
 
@@ -140,7 +133,7 @@
 
 
 
-    Image(filename='png/11.png')
+    Image(filename='png/10.png')
 
 
 
@@ -150,12 +143,22 @@
 
 
 
-    Image(filename='png/12.png')
+    Image(filename='png/11.png')
 
 
 
 
 ![png](intro_files/intro_12_0.png)
+
+
+
+
+    Image(filename='png/12.png')
+
+
+
+
+![png](intro_files/intro_13_0.png)
 
 
 
@@ -167,7 +170,7 @@
 
 
 
-![png](intro_files/intro_14_0.png)
+![png](intro_files/intro_15_0.png)
 
 
 
@@ -177,7 +180,7 @@
 
 
 
-![png](intro_files/intro_15_0.png)
+![png](intro_files/intro_16_0.png)
 
 
 
@@ -187,7 +190,7 @@
 
 
 
-![png](intro_files/intro_16_0.png)
+![png](intro_files/intro_17_0.png)
 
 
 
@@ -197,7 +200,7 @@
 
 
 
-![png](intro_files/intro_17_0.png)
+![png](intro_files/intro_18_0.png)
 
 
 
@@ -207,7 +210,7 @@
 
 
 
-![png](intro_files/intro_18_0.png)
+![png](intro_files/intro_19_0.png)
 
 
 
@@ -217,7 +220,7 @@
 
 
 
-![png](intro_files/intro_19_0.png)
+![png](intro_files/intro_20_0.png)
 
 
 
@@ -233,7 +236,7 @@
 
 
 
-![png](intro_files/intro_22_0.png)
+![png](intro_files/intro_23_0.png)
 
 
 
@@ -243,7 +246,7 @@
 
 
 
-![png](intro_files/intro_23_0.png)
+![png](intro_files/intro_24_0.png)
 
 
 
@@ -253,7 +256,7 @@
 
 
 
-![png](intro_files/intro_24_0.png)
+![png](intro_files/intro_25_0.png)
 
 
 
@@ -268,7 +271,7 @@
 
 
 
-![png](intro_files/intro_26_0.png)
+![png](intro_files/intro_27_0.png)
 
 
 
@@ -278,7 +281,7 @@
 
 
 
-![png](intro_files/intro_27_0.png)
+![png](intro_files/intro_28_0.png)
 
 
 
@@ -288,7 +291,7 @@
 
 
 
-![png](intro_files/intro_28_0.png)
+![png](intro_files/intro_29_0.png)
 
 
 
@@ -298,7 +301,7 @@
 
 
 
-![png](intro_files/intro_29_0.png)
+![png](intro_files/intro_30_0.png)
 
 
 
@@ -308,7 +311,7 @@
 
 
 
-![png](intro_files/intro_30_0.png)
+![png](intro_files/intro_31_0.png)
 
 
 
@@ -318,7 +321,7 @@
 
 
 
-![png](intro_files/intro_31_0.png)
+![png](intro_files/intro_32_0.png)
 
 
 
@@ -328,7 +331,7 @@
 
 
 
-![png](intro_files/intro_32_0.png)
+![png](intro_files/intro_33_0.png)
 
 
 
@@ -343,9 +346,20 @@
 
 
 
-![png](intro_files/intro_34_0.png)
+![png](intro_files/intro_35_0.png)
 
 
+
+## 피실험 참가자들이 보호받지 않는 예
+## 터스키기 매독 생체실험 사건 https://namu.wiki/w/%ED%84%B0%EC%8A%A4%ED%82%A4%EA%B8%B0%20%EB%A7%A4%EB%8F%85%20%EC%83%9D%EC%B2%B4%EC%8B%A4%ED%97%98%20%EC%82%AC%EA%B1%B4
+
+- 약 40년간 미국 앨라배마 주 터스키기(Tuskegee)에서 벌어진 정부 주도하의 생체실험으로 1973년 봄에 실험이 중단되고 실체가 폭로되자 전미가 경악하였던 끔찍한 사건이다.음모론이 현실로 밝혀진 사건의 희귀한 견본으로 치고 있는 악명 높은 미국판 마루타 사건이다. '정부가 가난한 사람들에게 무료 진료를 해준다고 해놓고 몰래 생체실험을 한다더라' 하는 도시전설이 현실로 드러난 셈이다. - 1932년 미국 공중보건국에서는 매독에 관한 연구를 진행하려고 하던 중 터스키기의 흑인들이 매독에 많이 감염되어 있고 가난한 탓에 치료를 받지 못한다는 것을 알고 생체 실험을 하기로 한다. 즉, 치료를 하지 않으면 매독이 얼마나 사람들에게 영향을 끼치는지 관찰하기 위해서였다.정부에서 파견된 의사들은 매독으로 고통받는 흑인들에게 '당신들은 지금 악혈(Bad Blood)이라는 병에 걸려있으니 치료해주겠다'고 속여 뇌척수액을 뽑고 검사를 했으며 아스피린과 철분제를 약이라고 나눠줬다. 이 실험은 1943년 매독을 치료할 수 있는 페니실린이 나온 이후에도 계속되었다.
+
+
+### 밀그램 실험
+https://ko.wikipedia.org/wiki/%EB%B0%80%EA%B7%B8%EB%9E%A8_%EC%8B%A4%ED%97%98
+
+- 밀그램 실험(영어: Milgram Experiment)은 1961년 예일 대학교의 심리학과 조교수 스탠리 밀그램(Stanley Milgram)이 실시한, 권위에 대한 복종에 대한 실험이다. 밀그램은 권위에 대한 복종을 연구하던 중, 사람들이 파괴적인 복종에 굴복하는 이유가 성격보다 상황에 있다고 믿고, 굉장히 설득력 있는 상황이 생기면 아무리 이성적인 사람이라도 윤리적, 도덕적인 규칙을 무시하고 명령에 따라 잔혹한 행위를 저지를 수 있다고 주장했다.[1] 밀그램은 "징벌에 의한 학습 효과"를 측정하는 실험에 참여할 사람들을 모집하고 피실험자들을 교사와 학생으로 나누었다. 그리고 교사 역할과 학생 역할의 피실험자를 각각 1명씩 그룹을 지어 실험을 실시했다. 학생 역할의 피실험자를 의자에 묶고 양쪽에 전기 충격 장치를 연결했다.[2] 그리고 교사가 학생에게 문제를 내고 학생이 틀리면 교사가 학생에게 전기 충격을 가할 수 있도록 했다. 그러나 사실 학생 역할의 피실험자는 배우였으며, 전기 충격 장치도 가짜였다.[1]
 
 
     Image(filename='png/28.png')
@@ -353,7 +367,7 @@
 
 
 
-![png](intro_files/intro_35_0.png)
+![png](intro_files/intro_37_0.png)
 
 
 
@@ -372,7 +386,7 @@
 
 
 
-![png](intro_files/intro_37_0.png)
+![png](intro_files/intro_39_0.png)
 
 
 
@@ -382,7 +396,7 @@
 
 
 
-![png](intro_files/intro_38_0.png)
+![png](intro_files/intro_40_0.png)
 
 
 
@@ -427,7 +441,7 @@
 
 
 
-![png](intro_files/intro_40_0.png)
+![png](intro_files/intro_42_0.png)
 
 
 
@@ -442,6 +456,6 @@
 
 
 
-![png](intro_files/intro_42_0.png)
+![png](intro_files/intro_44_0.png)
 
 
