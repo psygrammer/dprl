@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+
+<style>
+    * {box-sizing:border-box;}
+    body {background-color: #CCC;}
+
+    .bgimg {
+        position:fixed;
+        top: 0;
+        left: 0;
+        width:100%;
+        z-index:-1;
+        opacity:1;
+    }
+    .wikipedia-container {
+        float:right;
+        width:290px;
+        padding:10px;
+        margin-right: 10px;
+        background-color: rgba(255,255,255,0.7);
+    }
+
+    .greeting {
+        color:black;
+        text-shadow: 1px 1px 3px rgba(255,255,255, .5);
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+
+<form id="form-container" class="form-container">
+    <label for="place">Place: </label><input type="text" id="place" value="">
+    <button id="submit-btn">Submit</button>
+</form>
+
+<hr>
+
+<h1 id="greeting" class="greeting">검색할 장소를 입력하세요!</h1>
+
+<div class="wikipedia-container">
+    <h3 id="wikipedia-header">Relevant Wikipedia Links</h3>
+    <ul id="wikipedia-links">Type in an address above and find relevant Wikipedia articles here!</ul>
+</div>
+
+
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/script.js"></script>
+
+
+
+</body>
+</html>

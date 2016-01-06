@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <style>
+        body{
+            padding: 5px;
+        }
+
+        #js_practice{
+            width: 100px;
+            height: 100px;
+            padding: 20px;
+            margin: 10px;
+            background-color: turquoise;
+            text-align: center;
+        }
+
+
+        #jq_practice{
+            width: 200px;
+            height: 200px;
+            padding: 20px;
+            margin: 10px;
+            background-color: greenyellow;
+            text-align: center;
+
+        }
+
+        #pug{
+            width: 30%;
+        }
+
+    </style>
+
+
+
+    <script>
+
+        function areaColChange(){
+            document.getElementById("js_practice").style.backgroundColor="#ff00ff";
+
+        }
+
+        function areaEnlarge(){
+            var area = document.getElementById("js_practice");
+            area.style.height = "400px";
+            area.style.width = "400px";
+        }
+
+
+        $(document).ready(function(){
+     //       $("#jq_practice").click(function(){
+   //             $(this).hide();
+ //           });
+
+        });
+
+
+
+        //위에꺼 줄여쓰면 이거랑 같음.
+        // $(function(){ ~~ });
+
+
+
+
+    </script>
+</head>
+<body>
+
+<h1>1. Javascript</h1>
+
+<ul>
+    <li>사용자가 어떤 동작을 취했을 때, 그 동작에 대응하여 반응이 일어날 수 있도록 해줌. </li>
+    <li>동일문서안에서는 script 태그안에 작성하고, *.js 파일 형태로 만들어서 외부에서 가져올 수도 있음.</li>
+
+</ul>
+
+<br>
+* 자바스크립트 맛보기
+<div id="js_practice">
+</div>
+
+<button id="btnColChange" onclick="areaColChange()">색깔바꾸기</button>
+<button id="btnEnlarge" onclick="areaEnlarge()">크게하기</button>
+
+<br>
+<br>
+<br>
+<br>
+
+<h1>2. JQuery</h1>
+<ul>
+    <li>자바스크립트를 쉽게 사용할수 있게 하는 라이브러리</li>
+    <li>자바스크립트로 만들어진 다양한 함수들이 있음</li>
+    <li><a href="http://jquery.com/">jquery사이트</a>에서 다운로드</li>
+    <li>선택자 -> .메소드1 -> .메소드2 -> .메소드3</li>
+    <li>객체 선택방법 :
+        <ol>
+            <li>직접선택 : $("#id") , $(".class"), $("tag"), $("*")</li>
+            <li>인접관계선택 : $("--").children, $("--").parent</li>
+            <li>탐색선택 : $("--").odd(), $("--").even(), $("--").first(), $("--").nth-child(3)</li>
+        </ol>
+    </li>
+    <li>
+        <ol>
+            <li>속성 조작 메소드 : $("-").html("-"), $("-").attr("속성","값"), $("-").css("스타일 속성","값"), $("-").val("값")</li>
+            <li>객체편집 메소드 : $("-").append("추가할내용")</li>
+            <li>애니메이션 메소드 : $("-").hide("효과 속도","콜백 함수"), $("-").show("효과 속도","콜백 함수"),</li>
+
+
+        </ol>
+    </li>
+
+
+</ul>
+
+
+<br>
+* JQuery 맛보기
+
+
+<div id="jq_practice">
+<ul id="jq_practice_list">
+    <li>리스트1</li>
+    <li>리스트2</li>
+    <li>리스트3 : <img id="pug" src="img/dog_pug.jpg"/></li>
+    <li>리스트4 : <a href="http://www.naver.com">Naver</a></li>
+</ul>
+
+</div>
+
+<br><br>
+<a href="4_selector.html">Back</a>
+
+
+</body>
+</html>
